@@ -1,0 +1,11 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn.lock
+
+# Env / secrets
+.env
+.env.*
+*.env
+matches.txt
+STRIPE_SECRET_KEY=*
